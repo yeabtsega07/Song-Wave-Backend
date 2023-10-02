@@ -1,9 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "songs": [
+    {
+      "artist": "Eminem",
+      "title": "Godzilla",
+      "img": "https://i.pinimg.com/564x/cc/65/5f/cc655f4c3791ee1b0b2e5867ddf6b036.jpg",
+      "id": 1676553104204
+    },
+    {
+      "id": 1695490168274,
+      "artist": "Yohana ft. Kasmasse",
+      "title": "Berta",
+      "img": "https://yt3.googleusercontent.com/R2KiJTynXekDcXWKz3sPO_0MLpEPa3UGz4VZDIWIBBJg2o2pQBAHoYHGfx6XvJ24iFMn1AQh=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 1695974189895,
+      "artist": "Burna Boy",
+      "title": "CityBoy",
+      "img": "https://tracynaija.com.ng/wp-content/uploads/2023/08/channels4_profile.jpg"
+    },
+    {
+      "id": 1696254142976,
+      "artist": "J. Cole",
+      "title": "MiddleChild 4",
+      "img": "https://s1.ticketm.net/dam/a/bc6/ed4c5a57-4c1a-44e5-a70f-cf62e6315bc6_1659021_RETINA_PORTRAIT_3_2.jpg"
+    },
+    {
+      "id": 1696255379697,
+      "artist": "Drake",
+      "title": "God's Plan",
+      "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5"
+    }
+  ]
 }
